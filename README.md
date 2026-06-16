@@ -1,2 +1,4 @@
 # public-transport-headway-evaluation
 This repository contains mobility data analyzing passenger capacity and transit headways across the Naples public transport network.   The objective is to evaluate public transportation frequency and identify opportunities to optimize route efficiency using data from lines such as ANM, Trenitalia, and Cumana.
+Overview
+This repository contains a data analysis project focused on evaluating public transit performance. The project models urban mobility networks, specifically analyzing regional transit lines including ANM, Trenitalia, and Cumana.  Key Metrics EvaluatedService Headway: Analyzed the frequency of service schedules, with primary routes operating at 13.5 to 15.0-minute headways.  Route Capacity: Evaluated the maximum passenger capacity across different modes, ranging from 320 passengers on standard lines up to 1,536 passengers on heavy rail Trenitalia routes.  
